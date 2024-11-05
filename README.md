@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign - Wordpress / Cloud Computing - Azure|AWS / SQL Database
 - 🌱 I’m currently learning Wordpress development 
 - 💞️ I’m looking to collaborate on webdesign - Wordpress / SQL Database
-- 📫 How to reach me widensd@soulndesire.com
+- 📫 How to reach me widensd@techanica.com
 
 <!---
 Z0kutParty/Z0kutParty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
